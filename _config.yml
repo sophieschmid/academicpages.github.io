@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sophie Schmid, PhD"
-  avatar           : "ProfilePictureSophieSchmid.jpg"
+  avatar           : "images/ProfilePictureSophieSchmid.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Leiden, The Netherlands"
   employer         :
