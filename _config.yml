@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Portfolio Sophie Schmid, PhD"
 title_separator          : "-"
 name                     : &name "Sophie Schmid"
-description              : &description "  Researcher at LUMC | MRI | Arterial spin labeling in space & time | CAA | cerebrovascular hemodynamics"
+description              : &description "Researcher at LUMC | MRI | Arterial spin labeling in space & time | CAA | cerebrovascular hemodynamics"
 url                      : https://sophieschmid.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Sophie Schmid, PhD"
   avatar           : "images/ProfilePictureSophieSchmid.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Researcher at LUMC | MRI | Arterial spin labeling in space & time | CAA | cerebrovascular hemodynamics"
   location         : "Leiden, The Netherlands"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Sophie+Schmid"
   googlescholar    : "https://scholar.google.nl/citations?user=C1wnQG8AAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Sophie_Schmid2"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/sophieschmid/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0750-7798"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
