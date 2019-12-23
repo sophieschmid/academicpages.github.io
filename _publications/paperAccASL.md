@@ -1,7 +1,7 @@
 ---
 title: "Acceleration-selective arterial spin labeling"
 collection: publications
-permalink: /publication/paperAccASL
+permalink: /publications/paperAccASL
 excerpt: 'Introduction of the spatially non-selective acceleration‐selective arterial spin labeling (AccASL) method'
 date: 2014
 venue: 'Magnetic resonance in medicine'
