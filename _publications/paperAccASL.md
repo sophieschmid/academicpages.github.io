@@ -3,7 +3,7 @@ title: "Acceleration-selective arterial spin labeling"
 collection: publications
 permalink: /publications/paperAccASL
 excerpt: 'Introduction of the spatially non-selective acceleration‐selective arterial spin labeling (AccASL) method'
-date: 2014
+date: Jan 2014
 venue: 'Magnetic resonance in medicine'
 paperurl: 'https://doi.org/10.1002/mrm.24650'
 citation: '<i>Acceleration-selective arterial spin labeling</i>, S Schmid, E Ghariq, WM Teeuwisse, A Webb and MJP van Osch, Magnetic resonance in medicine, 2014; 71(1): 191-199'
