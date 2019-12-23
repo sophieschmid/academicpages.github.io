@@ -5,7 +5,7 @@ type: "Conference proceedings poster"
 permalink: /posters/ISMRM2012abstract
 venue: "ISMRM conference, Melbourne Convention & Exhibition Centre"
 paperurl: 'http://academicpages.github.io/files/posterISMRM2012.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'S Schmid, ET Petersen, WM Teeuwisse, A Webb, and MJP van Osch.&quot; <i>Improved selection of the venous blood pool for OEF determination: IQ-OEF</i>.&quot; Proc. Intl. Soc. Mag. Reson. Med. 20 (2012):2008 in Melbourne, Australia'
 date: May 2012
 location: "Melbourne Australia"
 ---
@@ -18,4 +18,4 @@ By selectively labeling the venous blood pool, the Inflow QUIXOTIC technique sho
 
 [Download poster here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: S Schmid, ET Petersen, WM Teeuwisse, A Webb, and MJP van Osch, <i>Improved selection of the venous blood pool for OEF determination: IQ-OEF</i>. Proc. Intl. Soc. Mag. Reson. Med. 20 (2012) in Melbourne, Australia
+Recommended citation: S Schmid, ET Petersen, WM Teeuwisse, A Webb, and MJP van Osch, <i>Improved selection of the venous blood pool for OEF determination: IQ-OEF</i>. Proc. Intl. Soc. Mag. Reson. Med. 20 (2012):2008 in Melbourne, Australia
