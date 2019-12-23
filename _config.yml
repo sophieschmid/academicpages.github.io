@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sophie Schmid, PhD"
-  avatar           : "/images/ProfilePictureSophieSchmid.jpg"
+  avatar           : "ProfilePictureSophieSchmid.jpg"
   bio              : "Researcher at LUMC | MRI | Arterial spin labeling in space & time | CAA | cerebrovascular hemodynamics"
   location         : "Leiden, The Netherlands"
   employer         :
