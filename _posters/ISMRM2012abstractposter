@@ -1,0 +1,16 @@
+---
+title: "Improved selection of the venous blood pool for OEF determination: IQ-OEF"
+collection: talks
+type: "Conference proceedings poster"
+permalink: /talks/ISMRM2012abstract
+venue: "ISMRM conference, Melbourne Convention & Exhibition Centre"
+date: May 2012
+location: "Melbourne Australia"
+---
+
+By using a pulsed arterial spin labeling (PASL) module, applied T<sub>1,blood</sub>*ln(2) seconds before VS-labeling, the arterial signal will be nulled. Therefore the MR signal will be exclusively from blood flowing above a cutoff velocity (v<sub>c</sub>) on the venous side of the circulation. This new method, dubbed Inflow QUIXOTIC (IQ), was compared to QUantitative Imaging of eXtraction of Oxygen and TIssue Consumption (QUIXOTIC)  
+
+By selectively labeling the venous blood pool, the IQ-technique showed a great improvement in SNR and difference signal compared to QUIXOTIC. IQ-OEF enables selection of the local venous blood pool, and provides also the opportunity to not only estimate the venous, but also the arterial T2 in a single scan.
+
+[Read full abstract here](https://cds.ismrm.org/protected/12MProceedings/files/2008.pdf)
+
