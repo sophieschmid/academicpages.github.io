@@ -2,7 +2,7 @@
 title: "Time efficient determination of spin compartments by Time Encoded Arterial Spin Labeling "
 collection: talks
 type: "Conference proceedings talk"
-permalink: /_talks/ISMRM2013abstract
+permalink: /talks/ISMRM2013abstract
 venue: "Salt Palace Convention Center"
 date: April 2013
 location: "Salt Lake City, Utah, USA"
