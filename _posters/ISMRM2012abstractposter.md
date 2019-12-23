@@ -4,7 +4,7 @@ collection: posters
 type: "Conference proceedings poster"
 permalink: /posters/ISMRM2012abstract
 venue: "ISMRM conference, Melbourne Convention & Exhibition Centre"
-paperurl: 'http://academicpages.github.io/files/posterISMRM2012.pdf'
+paperurl: 'http://sophieschmid.github.io/files/posterISMRM2012.pdf'
 citation: 'S Schmid, ET Petersen, WM Teeuwisse, A Webb, and MJP van Osch.&quot; <i>Improved selection of the venous blood pool for OEF determination: IQ-OEF</i>.&quot; Proc. Intl. Soc. Mag. Reson. Med. 20 (2012):2008 in Melbourne, Australia'
 date: May 2012
 location: "Melbourne Australia"
@@ -16,6 +16,6 @@ By selectively labeling the venous blood pool, the Inflow QUIXOTIC technique sho
 
 [Read full abstract here](https://cds.ismrm.org/protected/12MProceedings/files/2008.pdf)
 
-[Download poster here](http://academicpages.github.io/files/paper1.pdf)
+[Download poster here](http://sophieschmid.github.io/files/paper1.pdf)
 
 Recommended citation: S Schmid, ET Petersen, WM Teeuwisse, A Webb, and MJP van Osch, <i>Improved selection of the venous blood pool for OEF determination: IQ-OEF</i>. Proc. Intl. Soc. Mag. Reson. Med. 20 (2012):2008 in Melbourne, Australia
