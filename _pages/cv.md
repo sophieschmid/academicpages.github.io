@@ -46,7 +46,7 @@ Summary of Scholarly Impact
 ======
 * Publications: 15 publications with over 300 total citations, h-index of 9 (Google Scholar)
 * Presentations: Over 20 talks, including 3 invited talks and 2 educational presentations
-* Industry: Scholarship has directly led to new initiatives and redesigned products at Wikimedia
+#* Industry: Scholarship has directly led to new initiatives and redesigned products at Wikimedia
 
 Publications
 ======
